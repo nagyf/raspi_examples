@@ -1,10 +1,10 @@
 # DHT22 with a Raspberry Pi
 
-This sample project can be used to test a DHT22 sensor connected to a Raspberry Pi on the GPIO 22 pin.
+This sample project can be used to test a [DHT22](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf) sensor connected to a Raspberry Pi on the GPIO 22 pin.
 
 ## Install the C library
 
-http://www.airspayce.com/mikem/bcm2835/
+[http://www.airspayce.com/mikem/bcm2835/](http://www.airspayce.com/mikem/bcm2835/)
 
 ```
 cd
