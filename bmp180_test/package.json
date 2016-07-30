@@ -1,0 +1,14 @@
+{
+  "name": "bmp180_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmp180_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmp085": "^0.4.0"
+  }
+}
